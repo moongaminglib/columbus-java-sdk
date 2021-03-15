@@ -1,5 +1,4 @@
-# 英文
-[英文文档](https://github.com/moongaminglib/columbus-java-sdk/tree/main/en)
+[english doc](https://github.com/moongaminglib/columbus-java-sdk/tree/main/en)
 
 # dapp-java-sdk
 
