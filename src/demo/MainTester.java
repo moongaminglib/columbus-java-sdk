@@ -26,11 +26,11 @@ public class MainTester {
 
         String original_str = rsaUtil.mapToString(params);
         System.out.println("original_str:" + original_str);
-        System.out.println("签名结果：" + signature);
+        System.out.println("sig Result：" + signature);
         if (rsaUtil.verifyByPublicKey(signature, original_str)) {
-            System.out.println("成功");
+            System.out.println("success");
         } else {
-            System.out.println("失败");
+            System.out.println("failure");
         }
     }
 }
